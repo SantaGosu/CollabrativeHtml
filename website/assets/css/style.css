@@ -1,3 +1,9 @@
 body{
     background: #BDBDBD;
 }
+a{
+    color: white;
+}
+.nav-link{
+    color:white
+}
